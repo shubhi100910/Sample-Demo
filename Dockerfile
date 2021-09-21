@@ -1,6 +1,6 @@
 FROM tomcat:8.0-alpine
 
-LABEL maintainer=”deepak@softwareyoga.com”
+LABEL maintainer=”subhash.sharma@gmail.com”
 
 ADD app.war /usr/local/tomcat/webapps/
 
